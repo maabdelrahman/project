@@ -1,0 +1,56 @@
+body {
+    height: 2500px;
+    /* background-color: gray; */
+    /* background-image: url(../img/2012-04-25_1135.png); */
+    /* background-repeat: no-repeat;  */
+    /* background-repeat: no-repeat; // To stop repeating the image  */
+    /* background-attachment: fixed; */
+    /*  background-attachment: fixed; // To make the background image follow your page if you scroll */
+    /* background-position: center; */
+
+    /* background: fixed center no-repeat url(../img/2012-04-25_1135.png) gray;  */
+
+}
+
+.div1 {
+    width: 250px;
+    height: 250px;
+    background-image: url(../img/bicycle-wallpaper-preview.jpg);
+    background-size: cover;
+    /* background-size: cover; // to make the background image fit my div dimenasion  */
+}
+
+.p1 {
+    letter-spacing: 3px;  /* to make space bettween letters */
+    word-spacing: 30px; /* to make space between words */
+    line-height: 40px; /* space between lines */
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize;
+}
+
+.p1::selection {
+    background-color: red;
+} /* to modify the selection - highlight of the text */
+
+.div2 {
+    width: 250px;
+    height: 250px;
+    border: 1px solid gray ;
+    margin: 100px auto;
+    outline: 5px solid red;
+   
+    outline-offset: 25px ; /* the space betweem the outline border and the actual border */
+    padding-left: 20px;
+
+
+}
+
+.a10 {
+    font-size: 60px;
+    text-decoration: none; /* to remove any decoration for the text ( in this case to remove the underline from the link) */
+    text-decoration: underline; /* to add underline for the text */
+    text-decoration: overline; /* to add upperline for the text */
+    text-decoration: line-through; /* to add line on the text */
+
+}

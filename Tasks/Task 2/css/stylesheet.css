@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(167, 166, 166);
+}
+
+.firstDiv{
+    border: solid;
+    width: 250px;
+    height: 320px;
+    background-color: rgb(190, 190, 190);
+}
+
+.color-Change {
+    color: blue;
+    transition: color 0.3s;
+}
+
+.color-Change:hover {
+    color: black;
+}
+
+.secondDiv {
+    background-color: rgb(190, 190, 190);
+    height: 30px;
+   
+}
+
+
+
+.thirdDiv {
+    width: 250px; 
+    height: 250px; 
+    background-color: gray; 
+
+  }
+  
+  .thirdDiv:hover {
+    border-radius: 50%; 
+    background-color: rgb(230, 227, 227);
+  }
+  
+
+  .forthDiv{
+    
+    background-color: rgb(190, 190, 190);
+}
+
+
+

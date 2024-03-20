@@ -1,0 +1,14 @@
+progress {
+  
+    width: 250px;
+    height: 100px;
+}
+
+
+input:in-range {
+    background-color: green;
+}
+
+input:out-of-range {
+    background-color: red;
+}

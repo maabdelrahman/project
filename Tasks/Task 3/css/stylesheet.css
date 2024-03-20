@@ -1,0 +1,112 @@
+body {
+    background-color: rgba(207, 207, 205, 0.616);
+}
+
+.div1 {
+    border: 2px solid  rgba(0, 0, 0, 0.616);
+    width: 250px;
+    height: 370px;
+    border-radius: 20px;
+    float: left;
+    margin-left: 500px;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+.div1:hover {
+    background-color: rgba(173, 173, 173, 0.226);
+}
+
+.div2 {
+    border: 2px solid  rgba(0, 0, 0, 0.616);
+    width: 250px;
+    height: 370px;
+    border-radius: 20px;
+    margin: 0 50px;
+    float: left;
+    text-align: center;
+    margin-top: 50px
+}
+
+.div2:hover {
+    background-color: rgba(173, 173, 173, 0.226);
+}
+
+.div3 {
+    border: 2px solid  rgba(0, 0, 0, 0.616);
+    width: 250px;
+    height: 370px;
+    border-radius: 20px;
+    float: left;
+    text-align: center;
+    margin-top: 50px
+    
+}
+
+.div3:hover {
+    background-color: rgba(173, 173, 173, 0.226);
+}
+
+.div12 {
+    background-color: rgba(209, 118, 32, 0.548);
+    margin: auto;
+    width: 150px;
+    height: 5px;
+    border-radius: 5px;
+    
+}
+
+.div9 {
+    border:5px solid  rgba(209, 118, 32, 0.548) ;
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    margin: auto;
+    text-align: center;
+}
+
+/* .div9:hover {
+    border:5px solid  rgba(0, 0, 0, 0.616);
+} */
+
+.p9 {
+    margin-top: 25px;
+    font-size: 25px;
+}
+
+.p1 {
+    font-weight: bold;
+}
+
+
+.butt1 {
+    
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.616);
+    width: 150px;
+    height: 30px;
+}
+
+.butt1:hover {
+    background-color: rgba(209, 118, 32, 0.548);
+}
+
+.title11 {
+    text-align: center;
+    font-size: 50px;
+    
+   
+}
+
+.link1:hover {
+    color: rgba(209, 118, 32, 0.548);
+}
+
+.pp1 {
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 700px;
+}

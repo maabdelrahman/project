@@ -1,0 +1,43 @@
+body {
+    background-color: gray;
+}
+
+/* h2 {
+
+    background-color: red;
+    width: 250px;
+}
+
+p {
+    background-color: red;
+    width: 250px;
+} */
+
+div {
+
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    color: white;
+
+    /* border: 5px solid blue; */
+
+    border-radius: 30px;
+
+    /* border: thickness - type(solid - dash - dotted) - color */
+}
+
+
+/* button {
+
+    width: 350px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+    font-size: 24px;
+
+    border: none;
+
+    border-radius: 5px;
+
+} */

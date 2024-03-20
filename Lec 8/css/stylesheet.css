@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* to make the content without padding and margin (make curves at the top) */
+/* (*) select all content in my codes */
+
+
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: gray;
+    position: fixed;
+    top: 0;
+    
+}
+
+.img1 {
+    width: 250px;
+    height: 50px;
+    float: left;
+}
+
+.list {
+    list-style: none;
+    float: right;
+    margin-top: 10px;
+    margin-right: 120px;
+}
+
+.list li {
+    display: inline-block; /* to make the text come to each other but reserve the whole line for them */
+    margin-left: 25px;
+    color: white;
+}
+
+/* Nesting: to bring specific tags inside the class (.list li) leaving space between the words */
+
+.list li a {
+    color: white;
+    text-decoration: none;
+}
+
+.p1 {
+
+    /* font-size: 26px; */
+    /* font-weight: bolder; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    /* font-style: oblique; */
+    /* to make it italic */
+
+    font: italic bold 26px 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    /* style weight size family */
+}

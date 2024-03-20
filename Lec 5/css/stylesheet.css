@@ -1,0 +1,50 @@
+/* body {
+    background-color: rgb(182, 182, 182)
+}
+
+.div11 {
+    border: 2px solid grey;
+    width: 300px;
+    height: 250px;
+}
+
+.title11 {
+    border: inherit;
+
+    margin-top: 70px;
+} */
+
+body {
+    background-color: rgb(182, 182, 182)
+}
+
+.div1 {
+
+    border: 2px solid grey;
+    width: 300px;
+    height: 250px;
+
+    float: left;  
+    /* to bring a block next to block (it goes up) */
+    margin-left: 200px;
+}
+
+.div2 {
+
+    border: 2px solid grey;
+    width: 300px;
+    height: 250px;
+    float: left;
+    margin-left: 0px 50px;
+    
+
+}
+
+.div3 {
+
+    border: 2px solid grey;
+    width: 300px;
+    height: 250px;
+    float: left; 
+
+}
